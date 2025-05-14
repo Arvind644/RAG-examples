@@ -1,0 +1,3 @@
+cohere
+pillow
+numpy 
